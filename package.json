@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "cypress": "^13.5.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-terminal-report": "^5.3.9"
+  }
+}
